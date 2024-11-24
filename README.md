@@ -31,9 +31,12 @@ A responsive and visually appealing card layout project created using React, CSS
    ```bash
    npm create vite@latest card-layout-project --template react
 - 2.**Navigate to the project directory**:
-cd card-layout-project
-- 3.**Install the dependencies**: 
-npm install
+  ```bash
+   cd card-layout-project
+- 3.**Install the dependencies**:
+  ```bash
+   npm install
 -4.**Start the Development Server**: 
-Launch the Vite development server: npm run dev
+   ```bash
+    npm run dev
 - 5.**Access the Application**: Open your browser and navigate to the URL provided (typically http://localhost:5173).
