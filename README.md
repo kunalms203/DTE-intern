@@ -7,7 +7,6 @@ A responsive and visually appealing card layout project created using React, CSS
 ## Features
 
 - Horizontally centered cards with proper alignment.
-- Responsive layout to ensure cards adapt to different screen sizes.
 - Clean and structured CSS styling.
 - Dynamic card rendering for scalability and reusability.
 - Built using **Vite** for faster development and build performance.
