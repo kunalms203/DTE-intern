@@ -1,0 +1,49 @@
+.container{
+    margin: 0 140px;
+    .title{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        span{
+            font-size: 28px;
+            font-weight: bold;
+            color: #0029FF;
+        }
+        button{
+            height: 36px;
+            width: 121px;
+            background-color: #0029FF;
+            color: white;
+            border: none;
+            border-radius: 0.50rem;
+        }
+    }
+    .box{
+        background-color: #E9ECEF;
+        padding: 1.25rem;
+        border-radius: 0.50rem;
+        .normal{
+            font-size: 1rem;
+            font-weight: 400;
+
+        }
+        .bold{
+            font-weight: 700;
+            font-size: 1.25rem;
+        }
+    }
+    .container-card{
+        width: 90%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        justify-content: space-between;
+        align-items: flex-start;
+        padding: 0 40px;
+    }
+}

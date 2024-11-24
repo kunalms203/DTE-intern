@@ -1,0 +1,32 @@
+.navbar{
+    box-shadow: 2px 2px 2px 2px #00000040;
+    display: flex block;
+    height: 90px;
+    width: 100%;
+    background-color: #E9ECEF;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    .logo{
+
+        display: flex;
+        align-items: center;
+        padding-left: 100px;
+        img{
+            height: 60px;
+
+        }
+    }
+    .options{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        padding-right: 50px;
+        img{
+            width: 25px;
+            height: 25px;
+            cursor: pointer;
+        }
+
+    }
+}
